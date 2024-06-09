@@ -59,7 +59,7 @@ h1 {
 }
 
 h2 {
-	margin: 0;
+	margin: 0 0 50px 0;
 	line-height: 1.5em;
 	font-size: 24px;
 	font-family: Work Sans, san-serif;
@@ -73,10 +73,6 @@ h3 {
 	font-weight: 300;
 	font-family: Cooper Std, serif;
 	padding-top: 75px;
-}
-
-h4 {
-
 }
 
 bodycopy {
@@ -95,7 +91,7 @@ bodycopy {
 }
 
 h5 {
-	font-size: 24px;
+	font-size: 33px;
 	font-weight: bold;
 	color: #420022;
 	font-family: Cooper Std, serif;
